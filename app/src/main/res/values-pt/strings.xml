@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="home_introduction_message">Bem-vindo(a) à tela principal da aplicação criada para o primeiro desafio da formação Android Developer da DIO.me.</string>
+</resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="home_introduction_message">Welcome to the main screen of the app created for the DIO.me Android Developer formation\'s first challenge.</string>
 </resources>
